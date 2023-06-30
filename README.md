@@ -1,5 +1,7 @@
 # Hey there, welcome to our Code Review Platform Prototype!
 
+![](001.png)
+
 Alright, let's cut the chase. What is this thing? 
 
 This is a super cool prototype of a web app that helps you review your C code. Yes, you heard it right, it's like your buddy who checks your code. 
@@ -50,6 +52,8 @@ Then, take a stroll to `localhost:5000` in your browser. Paste your C code into 
 
 ## Yeah, but...
 
+![](002.png)
+
 Okay, we hear you! Right now this only works with C code, and it's all set around one problem (you have to print the alphabet in lowercase on a single line). 
 
 And yes, GPT-4 is not perfect, it's doing its best but it might not always get the feedback spot on. Also, we don't have any user management or a way to store your past code reviews (yet!). 
@@ -61,10 +65,3 @@ And yes, GPT-4 is not perfect, it's doing its best but it might not always get t
 - Getting a user management system.
 - Including more fun coding challenges.
 
-## Join us!
-
-Got an idea? Want to improve something? Go ahead, pull requests are more than welcome!
-
-## Licensing stuff
-
-[MIT](https://choosealicense.com/licenses/mit/)
