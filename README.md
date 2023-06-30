@@ -1,11 +1,12 @@
-# Hey there, welcome to our Code Review Platform Prototype!
-Alright, let's cut the chase. What is this thing? 
+# Hey there, welcome to my Code Review Platform Prototype!
+Alright, let's cut to the chase. What is this thing? 
 
 ![](003.png)
 
 This is a super cool prototype of a web app that helps you review your C code. Yes, you heard it right, it's like your buddy who checks your code. 
 
 And who's the buddy? It's none other than the highly advanced AI - OpenAI's GPT-4 model. So no more begging for code reviews, GPT-4 got your back!
+
 ![](001.png)
 
 ## What's in the box?
@@ -13,7 +14,7 @@ And who's the buddy? It's none other than the highly advanced AI - OpenAI's GPT-
 - A slick web interface where you can paste your C code.
 - Our app then compiles and runs the code to make sure it's correct.
 - And it also shows you how your output stacks up against the expected output.
-- Last but not the least, GPT-4 steps in to give you some feedback on how to improve your code.
+- Last but not least, GPT-4 steps in to give you some feedback on how to improve your code.
 
 ## Getting started
 
