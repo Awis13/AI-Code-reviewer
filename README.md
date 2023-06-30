@@ -1,12 +1,12 @@
 # Hey there, welcome to our Code Review Platform Prototype!
-
-![](001.png)
-
 Alright, let's cut the chase. What is this thing? 
+
+![](003.png)
 
 This is a super cool prototype of a web app that helps you review your C code. Yes, you heard it right, it's like your buddy who checks your code. 
 
 And who's the buddy? It's none other than the highly advanced AI - OpenAI's GPT-4 model. So no more begging for code reviews, GPT-4 got your back!
+![](001.png)
 
 ## What's in the box?
 
