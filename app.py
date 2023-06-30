@@ -4,7 +4,7 @@ import subprocess
 
 app = Flask(__name__)
 
-openai.api_key = "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"
+openai.api_key = "sk-xxxxxx"
 
 # Function to read a file
 def read_file(filename):
